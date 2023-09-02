@@ -1,0 +1,14 @@
+*{
+    font-size: large;
+   font-family:'pally' ;
+   
+
+}
+body{
+    
+    padding: 80px;
+}
+.next{
+    position: relative;
+    top: 25px;
+}
